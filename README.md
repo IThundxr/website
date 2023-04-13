@@ -4,12 +4,12 @@ This repository contains the assets and the source code required to build [IThun
 - Contributing to linked repositories and projects (soon)
 
 ## Using this repository
-You can run this website locally using [Node.js](https://nodejs.org) and [PNPM](https://pnpm.io/). We strongly reccomend sticking to PNPM and not running it using Yarn/NPM as it's never been tested and some bugs may occur.
+You can run this website locally using [Node.js](https://nodejs.org) and [NPM](https://www.npmjs.com/). We strongly reccomend sticking to NPM and not running it using Yarn/PNPM as it's never been tested and some bugs may occur.
 
 ## Prerequisites
 To use this repository, you will need the following installed locally:
 - [Node.js](https://nodejs.org/)
-- [PNPM](https://pnpm.io/)
+- [NPM](https://www.npmjs.com/)
 
 Before you start, make sure to install the dependencies. Clone the repository and navigate to the directory:
 ```sh
